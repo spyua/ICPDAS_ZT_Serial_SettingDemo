@@ -6,7 +6,10 @@ namespace ZigBeeDataGathering
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var bootstrapper = new Bootstrapper();
+            bootstrapper.Run();
+            Console.WriteLine("123");
+            Console.ReadKey();
         }
     }
 }

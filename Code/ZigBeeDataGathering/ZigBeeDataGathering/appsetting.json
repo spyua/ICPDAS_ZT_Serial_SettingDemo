@@ -1,0 +1,14 @@
+{
+  "AkkaConfigure": {
+
+    "AkaSysName": "AkkaSystem",
+    "AkaSysPort": "8200",
+
+    "ZigBee": {
+      "RemoteIp": "127.0.0.1",
+      "RemotePort": "7791",
+      "LocalIp": "127.0.0.1",
+      "LocalPort": "9101"
+    }
+  }
+}
