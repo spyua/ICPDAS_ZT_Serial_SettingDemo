@@ -66,7 +66,7 @@ ICP DAS Zigbee 2570, 2571,TCP Setting使用紀錄  2055設置
 
 註一 : 因為ZigBee是小資料量、慢速讀取的應用，所以若可以，建議1秒輪詢1站。
 
-註二 : RF Channel ZigBee推薦 4 9 E 
+註二 : RF Channel ZigBee推薦 4 9 E F
 
 註三 : 傳輸大小最大79 bytes
 
